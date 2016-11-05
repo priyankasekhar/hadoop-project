@@ -1,5 +1,5 @@
 # hadoop-project
-
+'''
 Description:
 The following are interesting data sets:
 http://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php (all earthquakes)
@@ -36,3 +36,4 @@ Visualizing
 2. Import the output from the clustering above, and show scatter carts,
 bar charts, bubble charts, with annotated color, through your web browser
 on your screen.
+'''
